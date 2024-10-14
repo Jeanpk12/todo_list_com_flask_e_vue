@@ -2,6 +2,8 @@
 
 Este é um projeto simples de uma aplicação de lista de afazeres (Todo App) utilizando Flask no backend e Vue.js no frontend. A aplicação permite que o usuário adicione, edite, marque como concluído e exclua afazeres. O projeto foi desenvolvido para demonstrar a integração entre um backend em Flask e um frontend em Vue.js, utilizando axios para as requisições HTTP.
 
+![alt text](image.png)
+
 ## Funcionalidades
 
 - **Adicionar afazeres**: Adicione novas tarefas à lista.
